@@ -9,9 +9,9 @@ Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of `node.js` and `npm`.
 * You have a `<Windows/Linux/Mac>` machine. 
 
-## Installing <React_App_Name>
+## Installing Project
 
-To install <React_App_Name>, follow these steps:
+To install Project, follow these steps:
 
 1. Clone the repository:
    
